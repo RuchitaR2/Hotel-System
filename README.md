@@ -11,3 +11,5 @@ Retrieve customer history with ease.
 Booking System
 Manage new bookings and cancellations.
 Track check-ins and check-outs.
+Reports
+Generate detailed reports for occupancy, revenue, and customer trends.
